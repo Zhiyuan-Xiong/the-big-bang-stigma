@@ -1,0 +1,222 @@
+{
+  "slug": "stigma",
+  "title": {
+    "zh": "病名异化实验场",
+    "en": "The Big Bang Stigma"
+  },
+  "subtitle": {
+    "zh": "一次关于标签、身体与观看的交互体验",
+    "en": "An interactive exploration of labels, bodies, and the gaze"
+  },
+  "description": {
+    "zh": "将疾病污名的研究转译为一条跨越身份生成、求职与直播表演的交互路径。",
+    "en": "Translating research on illness stigma into an interactive journey through identity, recruitment, and livestream performance."
+  },
+  "categories": [
+    "installation",
+    "ux",
+    "3d"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "XR／交互体验 · 协作项目",
+    "en": "XR / Interaction · Collaborative project"
+  },
+  "year": "2024",
+  "featured": true,
+  "background": "stigma-space",
+  "cover": "stigma-cover",
+  "coverAlt": {
+    "zh": "紫粉色虚拟表演空间，中央人物被舞台与观众视线包围。",
+    "en": "A pink and purple virtual performance space with a figure at its centre."
+  },
+  "role": {
+    "zh": "交互体验与视觉设计（协作项目）",
+    "en": "Interaction and visual design within a collaborative project"
+  },
+  "stage": {
+    "zh": "研究、XR 体验设计与装置原型",
+    "en": "Research, XR experience design, and installation prototypes"
+  },
+  "deliverables": {
+    "zh": "体验路径、交互机制、虚拟场景与直播视觉",
+    "en": "Experience journey, interaction mechanisms, virtual environments, and livestream visuals"
+  },
+  "overview": {
+    "zh": "疾病如何从一个人的处境，变成社会评价中的标签？项目围绕污名化、娱乐化与浪漫化三个层面，用连续的交互情境呈现标签如何形成，并影响个体的机会与自我表达。",
+    "en": "How does an illness become a social label? This project explores stigmatisation, entertainment, and romanticisation through connected scenarios that reveal how labels shape opportunity and self-expression."
+  },
+  "sections": [
+    {
+      "id": "question",
+      "title": {
+        "zh": "01　问题与目标",
+        "en": "01　Question & intent"
+      },
+      "paragraphs": [
+        {
+          "zh": "研究材料关注疾病在就业、社交媒体与流行文化中的呈现。同一个标签可能在求职时成为障碍，在直播中被当作表演素材，也可能被包装成一种审美符号。",
+          "en": "The research examines representations of illness in employment, social media, and popular culture. A label may become a barrier in recruitment, material for a performance, or an aesthetic symbol."
+        },
+        {
+          "zh": "设计目标是让参与者体验这些评价机制之间的联系，而不只是观看一组关于污名的说明。项目中的身份与评分属于叙事情境，不承担医学诊断功能。",
+          "en": "The aim is to let participants experience connections between these judgements. Identities and scores are elements of the narrative, rather than medical assessments."
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "title": {
+        "zh": "02　从研究到体验结构",
+        "en": "02　From research to experience"
+      },
+      "points": [
+        {
+          "title": {
+            "zh": "污名化",
+            "en": "Stigmatisation"
+          },
+          "text": {
+            "zh": "把个体简化为疾病标签，观察标签如何影响招聘判断。",
+            "en": "Reduce an individual to a label and explore how that label influences recruitment decisions."
+          }
+        },
+        {
+          "title": {
+            "zh": "娱乐化",
+            "en": "Entertainment"
+          },
+          "text": {
+            "zh": "把身体与行为变成观看、指令与评分的对象。",
+            "en": "Turn bodies and behaviour into objects of viewing, instruction, and rating."
+          }
+        },
+        {
+          "title": {
+            "zh": "浪漫化",
+            "en": "Romanticisation"
+          },
+          "text": {
+            "zh": "将过程数据转化为审美化的身份肖像，反观这种包装。",
+            "en": "Turn accumulated data into an aesthetic portrait and question the packaging of identity."
+          }
+        }
+      ]
+    },
+    {
+      "id": "decisions",
+      "title": {
+        "zh": "03　关键交互决策",
+        "en": "03　Key interaction decisions"
+      },
+      "paragraphs": [
+        {
+          "zh": "用一条连续路径连接不同媒介。前一环节生成的身份与行为信息，成为下一环节的输入，让标签的影响累积，而不是每个场景重新开始。",
+          "en": "A continuous journey connects different media. Identity and behaviour from one stage feed into the next, so the effects of a label accumulate."
+        }
+      ],
+      "points": [
+        {
+          "title": {
+            "zh": "身份生成",
+            "en": "Identity generation"
+          },
+          "text": {
+            "zh": "以问卷与面部输入作为身份生成的设计入口，形成虚构角色档案。",
+            "en": "Questionnaire and facial inputs form the proposed entry point for generating a fictional profile."
+          }
+        },
+        {
+          "title": {
+            "zh": "虚拟求职",
+            "en": "Virtual recruitment"
+          },
+          "text": {
+            "zh": "通过词语选择、时间压力与带偏见的评分规则，把抽象的招聘判断变成可感知的反馈。",
+            "en": "Word selection, time pressure, and biased scoring make abstract recruitment judgements tangible."
+          }
+        },
+        {
+          "title": {
+            "zh": "直播表演",
+            "en": "Livestream performance"
+          },
+          "text": {
+            "zh": "设计观众指令、评价与身体反馈之间的关系，探索 Kinect 与压力输入的可能性。",
+            "en": "Design relationships between audience instructions, ratings, and bodily feedback, exploring Kinect and pressure inputs."
+          }
+        },
+        {
+          "title": {
+            "zh": "身份肖像",
+            "en": "Identity portrait"
+          },
+          "text": {
+            "zh": "让积累的信息进入最终视觉结果，呈现一个人被观看和重构的过程。",
+            "en": "Carry accumulated information into the final visual result, revealing how a person is viewed and reconstructed."
+          }
+        }
+      ]
+    },
+    {
+      "id": "visuals",
+      "title": {
+        "zh": "04　场景与视觉原型",
+        "en": "04　Environments & visual prototypes"
+      },
+      "figures": [
+        {
+          "image": "stigma-cover",
+          "alt": {
+            "zh": "虚拟直播表演舞台的全景。",
+            "en": "An overview of the virtual livestream performance stage."
+          },
+          "caption": {
+            "zh": "表演空间：用舞台、尺度与色彩强调身体被观看的处境。",
+            "en": "Performance space: stage, scale, and colour emphasise the body as an object of observation."
+          }
+        },
+        {
+          "image": "stigma-space",
+          "alt": {
+            "zh": "紫色虚拟环境中的人物与空间。",
+            "en": "A figure within a purple virtual environment."
+          },
+          "caption": {
+            "zh": "虚拟场景探索：让情境从屏幕界面延伸到空间体验。",
+            "en": "Virtual environment exploration extends the scenario beyond a screen."
+          }
+        },
+        {
+          "image": "stigma-stream",
+          "alt": {
+            "zh": "项目中的竖屏直播界面视觉。",
+            "en": "The vertical livestream interface visual developed for the project."
+          },
+          "caption": {
+            "zh": "直播视觉：将空间表演与界面中的观看关系连接。",
+            "en": "Livestream visual: connecting spatial performance with interface-mediated viewing."
+          },
+          "portrait": true
+        }
+      ]
+    },
+    {
+      "id": "reflection",
+      "title": {
+        "zh": "05　验证与反思",
+        "en": "05　Validation & reflection"
+      },
+      "paragraphs": [
+        {
+          "zh": "当前材料展示了研究转译、交互方案与视觉原型。它们说明设计如何把社会议题变成可体验的机制，但尚不足以证明参与者态度发生了改变。",
+          "en": "The available material documents research translation, interaction concepts, and visual prototypes. These show how a social question can become an experience, but do not establish a change in participants’ attitudes."
+        },
+        {
+          "zh": "下一步需要验证：参与者能否理解环节之间的数据关系，评分是否被理解为对偏见的呈现，以及退出与说明是否足够清晰。对敏感议题的表达，也需要邀请不同背景的参与者反馈。",
+          "en": "Future evaluation should examine whether participants understand connections between stages, recognise scoring as a portrayal of bias, and can clearly exit or find explanations. Feedback from people with different backgrounds is also essential."
+        }
+      ]
+    }
+  ]
+}
